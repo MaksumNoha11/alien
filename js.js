@@ -134,10 +134,10 @@ function checkCollisions() {
 function checkGameOver() {
     if (score >= WIN_SCORE) {
         gameOver = true;
-        alert("Гра виграна!");
+        alert(""Гра виграна! Рахунок = 40! 😎"");
     } else if (missedCoins >= LOSE_COUNT) {
         gameOver = true;
-        alert("Гра програна!");
+        alert("Гра програна! Ви пропустили три інопланетянина :( 👽");
     }
 }
 
