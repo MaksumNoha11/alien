@@ -9,7 +9,7 @@ body {
     overflow: hidden;
 }
 #myCanvas {
-    background-image: url("15065850_5531937.jpg");
+    background-image: darkblue;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
