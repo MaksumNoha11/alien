@@ -1,0 +1,16 @@
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: navajowhite;
+    overflow: hidden;
+}
+#myCanvas {
+    background-image: url("15065850_5531937.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
