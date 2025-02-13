@@ -10,7 +10,4 @@ body {
 }
 #myCanvas {
     background-color: darkblue;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
