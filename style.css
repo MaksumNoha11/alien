@@ -9,5 +9,8 @@ body {
     overflow: hidden;
 }
 #myCanvas {
-    background-color: darkblue;
+    background-image: url("https://img.freepik.com/free-vector/gradient-galaxy-with-rocket-background_23-2148137294.jpg?t=st=1739477807~exp=1739481407~hmac=dcf37c1cc66a1f35a78273b7459fd1c3fedbabee0b6e22065815890432bce636&w=740");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
